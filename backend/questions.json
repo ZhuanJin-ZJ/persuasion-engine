@@ -1,0 +1,54 @@
+{
+  "layer1": [
+    {
+      "id": "problem",
+      "prompt": "What problem are you solving?"
+    },
+    {
+      "id": "audience",
+      "prompt": "Who suffers from that problem?"
+    },
+    {
+      "id": "alternative",
+      "prompt": "What is your core message?"
+    }
+  ],
+  "layer2": [
+    {
+      "id": "solution",
+      "prompt": "Summarise your solution."
+    },
+    {
+      "id": "novelty",
+      "prompt": "What is the novelty?"
+    },
+    {
+      "id": "mechanism",
+      "prompt": "How does it work?"
+    }
+  ],
+  "layer3": [
+    {
+      "id": "problem_frequency",
+      "prompt": "How often does this problem occur?"
+    },
+    {
+      "id": "problem_intensity",
+      "prompt": "When it occurs, how severe is the impact?"
+    }
+  ],
+  "layer4": [
+    {
+      "id": "impact",
+      "prompt": "What is the impact if your solution goes through?"
+    },
+    {
+      "id": "novelty",
+      "prompt": "What is the novelty?"
+    },
+    {
+      "id": "trust",
+      "prompt": "How can we trust it?"
+    }
+  ]
+}
